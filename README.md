@@ -1,6 +1,6 @@
 # Text-Mining Project
 
-This text mining project aims to perform named entity recognition. 
+This text mining project aims to perform named entity recognition. The project was carried out in collaboration with 3 university colleagues.
 
 The dataset used in our project is “wikigold.conll.txt”, a manually annotated collection of Wikipedia text. The dataset follows the Conll-03 format, which serves as a reference for named entity recognition.
 
